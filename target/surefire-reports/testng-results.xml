@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="48" started-at="2021-03-24T10:36:38Z" finished-at="2021-03-24T10:36:38Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="48" started-at="2021-03-24T10:36:38Z" finished-at="2021-03-24T10:36:38Z">
+      <class name="qaclickacademy.Three_Test">
+        <test-method status="PASS" signature="atharva()[pri:0, instance:qaclickacademy.Three_Test@3796751b]" name="atharva" duration-ms="1" started-at="2021-03-24T16:06:38Z" finished-at="2021-03-24T16:06:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- atharva -->
+        <test-method status="PASS" signature="omkar()[pri:0, instance:qaclickacademy.Three_Test@3796751b]" name="omkar" duration-ms="1" started-at="2021-03-24T16:06:38Z" finished-at="2021-03-24T16:06:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- omkar -->
+      </class> <!-- qaclickacademy.Three_Test -->
+      <class name="qaclickacademy.Two_2Test">
+        <test-method status="PASS" signature="devansh()[pri:0, instance:qaclickacademy.Two_2Test@39ba5a14]" name="devansh" duration-ms="0" started-at="2021-03-24T16:06:38Z" finished-at="2021-03-24T16:06:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- devansh -->
+        <test-method status="PASS" signature="rutva()[pri:0, instance:qaclickacademy.Two_2Test@39ba5a14]" name="rutva" duration-ms="0" started-at="2021-03-24T16:06:38Z" finished-at="2021-03-24T16:06:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rutva -->
+      </class> <!-- qaclickacademy.Two_2Test -->
+      <class name="qaclickacademy.One_1Test">
+        <test-method status="PASS" signature="shravya()[pri:0, instance:qaclickacademy.One_1Test@96532d6]" name="shravya" duration-ms="22" started-at="2021-03-24T16:06:38Z" finished-at="2021-03-24T16:06:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shravya -->
+        <test-method status="PASS" signature="swara()[pri:0, instance:qaclickacademy.One_1Test@96532d6]" name="swara" duration-ms="1" started-at="2021-03-24T16:06:38Z" finished-at="2021-03-24T16:06:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- swara -->
+      </class> <!-- qaclickacademy.One_1Test -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
