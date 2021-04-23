@@ -15,5 +15,11 @@ public class Three_Test {
 	{
 		System.out.println("The Struggler");
 	}
+	@Test
+	public void omkarJadya() 
+	{
+		System.out.println("The Struggler");
+	}
+
 
 }

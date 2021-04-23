@@ -17,11 +17,18 @@ public class One_1Test {
 		System.out.println("Sachin");
 		
 	}
-	
+		
 	@Test
 	public void shravya() 
 	{
 		System.out.println("The don girl");
 	}
+
+	@Test
+	public void shravya2() 
+	{
+		System.out.println("The don girl");
+	}
+
 
 }

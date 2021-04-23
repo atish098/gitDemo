@@ -16,5 +16,12 @@ public class Two_2Test {
 	{
 		System.out.println("Peace Girl");
 	}
+	
+	@Test
+	public void rutva3() 
+	{
+		System.out.println("Peace Girl");
+	}
+
 
 }
