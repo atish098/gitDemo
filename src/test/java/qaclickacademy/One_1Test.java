@@ -8,6 +8,9 @@ public class One_1Test {
 	public void swara() 
 	{
 		System.out.println("Cute Baby");
+		System.out.println("Cutiee");
+		System.out.println("Queen");
+		
 	}
 	
 	@Test
