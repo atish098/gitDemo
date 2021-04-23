@@ -11,6 +11,10 @@ public class One_1Test {
 		System.out.println("Cutiee");
 		System.out.println("Queen");
 		System.out.println("Sachin");
+		System.out.println("Sachin");
+		System.out.println("Sachin");
+		System.out.println("Sachin");
+		System.out.println("Sachin");
 		
 	}
 	

@@ -8,6 +8,7 @@ public class Two_2Test {
 	public void devansh() 
 	{
 		System.out.println("Bhai Manus");
+		System.out.println("Dev Manus");
 	}
 	
 	@Test
